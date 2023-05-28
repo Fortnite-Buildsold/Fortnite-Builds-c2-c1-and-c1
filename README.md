@@ -30,6 +30,16 @@ Build	Date	Engine Version	Link
 2.4.2-CL-3870737	07-02-18	UE4.19-3870737	https://rebrand.ly/2_4_2
 2.5.0-CL-3889387	13-02-18	UE4.20-3889387	i dont have add son
 
+Season 3
+
+Build	Date	Engine Version	Link
+
+3.0-CL-3901517	21-02-18	UE4.20-3901517	https://rebrand.ly/3_0
+3.1-CL-3915963	28-02-18	UE4.20-3915963	https://rebrand.ly/3_1
+3.1-CL-3917250	28-02-18	UE4.20-3917250	https://rebrand.ly/3_1_1
+3.2-CL-3935073	08-03-18	UE4.20-3935073	https://rebrand.ly/3_2
+3.3-CL-3942182	15-03-18	UE4.20-3942182	soon
+3.5-CL-4008490	11-04-18	UE4.20-4008490	https://rebrand.ly/3_5
 
 
 
