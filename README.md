@@ -1,3 +1,11 @@
+Pre-BattleRoyale
+
+Build	Date	Engine Version	Link
+
+OT6.5-CL-2870186	28-02-16	UE4.12-2870186	https://rebrand.ly/OT6_5
+Cert-CL-3532353	20-07-17	UE4.16-3532353	https://rebrand.ly/1_2_X
+1.2-CL-3541083	21-07-17	UE4.16-3541083	https://rebrand.ly/1_2_0
+
 Season 0 & 1
 1.7.2-CL-3700114 https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view
 
@@ -14,11 +22,7 @@ s2 builds i dont have only 1.11 sad again soon i add
 
 
 
-Pre-BattleRoyale
-Build	Date	Engine Version	Link
-OT6.5-CL-2870186	28-02-16	UE4.12-2870186	https://rebrand.ly/OT6_5
-Cert-CL-3532353	20-07-17	UE4.16-3532353	https://rebrand.ly/1_2_X
-1.2-CL-3541083	21-07-17	UE4.16-3541083	https://rebrand.ly/1_2_0
+
 
 
 
