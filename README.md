@@ -18,6 +18,17 @@ Build	Date	Engine Version	Link
 1.9.1-CL-3775276	29-11-17	UE4.16-3775276	https://rebrand.ly/1_9_1
 1.10-CL-3790078	06-12-17	UE4.19-3790078	https://rebrand.ly/1_10
 
+Season 2
+
+Build	Date	Engine Version	Link
+
+1.11-CL-3807424	14-12-17	UE4.19-3807424	https://rebrand.ly/01_11
+2.1.0-CL-3825894	09-01-18	UE4.19-3825894	https://rebrand.ly/2_1_0
+2.2.0-CL-3841827	18-01-18	UE4.19-3841827	https://rebrand.ly/2_2_0
+2.3.0-CL-3847564	25-01-18	UE4.19-3847564	----- MANIFEST -----
+2.4.0-CL-3858292	01-02-18	UE4.19-3858292	https://rebrand.ly/2_4_0
+2.4.2-CL-3870737	07-02-18	UE4.19-3870737	https://rebrand.ly/2_4_2
+2.5.0-CL-3889387	13-02-18	UE4.20-3889387	i dont have add son
 
 
 
