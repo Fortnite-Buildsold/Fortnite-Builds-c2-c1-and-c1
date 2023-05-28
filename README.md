@@ -75,11 +75,90 @@ Build	Date	Engine Version	Link
 6.22-CL-4543176	04-11-18	UE4.21-4543176	https://rebrand.ly/6_22_0
 6.30-CL-4573096	13-11-18	UE4.21-4573096	https://rebrand.ly/6_30_0
 6.31-CL-4573279	27-11-18	UE4.21-4573279	https://rebrand.ly/6_31_0
+
 Season 7
-Build	Date	Engine Version	Link
-7.00-CL-4629139	06-12-18	UE4.22-4629139	https://rebrand.ly/7_00
-7.10-CL-4667333	18-12-18	UE4.22-4667333	https://rebrand.ly/07_10
-7.20-CL-4727874	22-01-19	UE4.22-4727874	https://rebrand.ly/7_20
+Build	Date	Engine Version	Download links
+7.00-CL-4629139	06-12-18	UE4.22-4629139	https://cdn.fnbuilds.services/7.00.rar
+7.10-CL-4667333	18-12-18	UE4.22-4667333	https://cdn.fnbuilds.services/7.10.rar
+7.20-CL-4727874	22-01-19	UE4.22-4727874	https://cdn.fnbuilds.services/7.20.rar
+7.30-CL-4834550	29-01-19	UE4.22-4834550	https://cdn.fnbuilds.services/7.30.rar
+7.40-CL-5046157	13-02-19	UE4.22-5046157	https://cdn.fnbuilds.services/7.40.rar
+Season 8
+Build	Date	Engine Version	Download links
+8.00-CL-N/A	28-02-19	UE4.23	N/A
+8.01-CL-N/A	06-03-19	UE4.23	N/A
+8.10-CL-N/A	12-03-19	UE4.23	N/A
+8.11-CL-N/A	20-03-19	UE4.23	N/A
+8.20-CL-N/A	27-03-19	UE4.23	N/A
+8.30-CL-N/A	10-04-19	UE4.23	N/A
+8.40-CL-N/A	17-04-19	UE4.23	https://cdn.fnbuilds.services/8.40.zip
+8.50-CL-6058028	25-04-19	UE4.23	https://cdn.fnbuilds.services/8.50.zip
+8.51-CL-N/A	02-05-19	UE4.23	https://cdn.fnbuilds.services/8.51.rar
+Season 9
+Build	Date	Engine Version	Download links
+9.00-CL-6337466	09-05-19	UE4.23	https://cdn.fnbuilds.services/9.00.zip
+9.01-CL-N/A	15-05-19	UE4.23	N/A
+9.10-CL-6639283	19-05-19	UE4.23	https://cdn.fnbuilds.services/9.10.rar
+9.20-CL-N/A	06-06-19	UE4.23	N/A
+9.21-CL-N/A	12-06-19	UE4.23	N/A
+9.30-CL-N/A	09-07-19	UE4.23	N/A
+9.40-CL-N/A	17-07-19	UE4.23	N/A
+9.41-CL-7609292	23-07-19	UE4.23	https://cdn.fnbuilds.services/9.41.rar
+Season X/10
+Build	Date	Engine Version	Download links
+10.00-CL-7704164	01-08-19	UE4.23	https://cdn.fnbuilds.services/10.00.zip
+10.10-CL-N/A	10-08-19	UE4.23	N/A
+10.20-CL-N/A	27-08-19	UE4.23	N/A
+10.30-CL-N/A	11-09-19	UE4.23	N/A
+10.31-CL-N/A	18-09-19	UE4.23	N/A
+10.40-CL-9380822	25-09-19	UE4.23	https://cdn.fnbuilds.services/10.40.rar
+Season 11
+Build	Date	Engine Version	Download links
+11.31-CL-N/A	N/A	N/A	https://cdn.fnbuilds.services/11.31.rar
+Season 12
+Build	Date	Engine Version	Download links
+12.00-CL-N/A	20-02-20	UE4.24	https://cdn.fnbuilds.services/12.00.rar
+12.10-CL-N/A	03-03-20	UE4.24	N/A
+12.20-CL-N/A	17-03-20	UE4.24	N/A
+12.21-CL-N/A	24-03-20	UE4.25	https://cdn.fnbuilds.services/12.21.zip
+12.30-CL-N/A	31-03-20	UE4.25	N/A
+12.40-CL-N/A	15-04-20	UE4.25	N/A
+12.41-CL-12905909	21-04-20	UE4.25	https://cdn.fnbuilds.services/12.41.rar
+12.50-CL-N/A	29-04-20	UE4.25	https://cdn.fnbuilds.services/12.50.zip
+12.60-CL-N/A	20-05-20	UE4.25	N/A
+12.61-CL-N/A	26-05-20	UE4.25	https://cdn.fnbuilds.services/12.61.zip
+Season 13
+Build	Date	Engine Version	Download links
+13.00-CL-N/A	27-09-20	UE4.26	https://cdn.fnbuilds.services/13.00.rar
+Season 14
+Build	Date	Engine Version	Download links
+14.00-CL-N/A	27-09-20	UE4.26	N/A
+14.10-CL-N/A	10-10-20	UE4.26	N/A
+14.20-CL-N/A	23-10-20	UE4.26	N/A
+14.30-CL-N/A	13-10-20	UE4.26	N/A
+14.40-CL-14550713	21-10-20	UE4.26	https://cdn.fnbuilds.services/14.40.rar
+14.50-CL-N/A	03-11-20	UE4.26	N/A
+14.60-CL-14786821	18-11-20	UE4.26	https://cdn.fnbuilds.services/14.60.rar
+Season 15
+Build	Date	Engine Version	Download links
+15.00-CL-N/A	02-12-20	UE4.26	N/A
+15.10-CL-N/A	15-12-20	UE4.26	N/A
+15.20-CL-N/A	13-01-21	UE4.26	N/A
+15.21-CL-N/A	20-01-22	UE4.26	N/A
+15.30-CL-15341163	02-02-21	UE4.26	https://cdn.fnbuilds.services/15.30.rar
+15.40-CL-N/A	16-02-21	UE4.26	N/A
+15.50-CL-N/A	02-03-21	UE4.26	N/A
+Season 16
+Build	Date	Engine Version	Download links
+16.00-CL-N/A	16-03-21	UE4.26	N/A
+16.10-CL-N/A	30-03-21	UE4.26	N/A
+16.20-CL-N/A	13-04-21	UE4.26	N/A
+16.30-CL-N/A	27-04-21	UE4.26	N/A
+16.40-CL-16218553	11-05-21	UE4.26.1	https://cdn.fnbuilds.services/16.40.rar
+16.50-CL-N/A	03-06-22	UE4.26.1	N/A
+Season 19
+Build	Date	Engine Version	Download links
+19.10-CL-N/A	N/A	N/A	https://cdn.fnbuilds.services/19.10.rar
 
 
 
