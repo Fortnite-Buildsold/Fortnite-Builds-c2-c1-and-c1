@@ -156,19 +156,28 @@ Build	Date	Engine Version	Download links
 16.30-CL-N/A	27-04-21	UE4.26	N/A
 16.40-CL-16218553	11-05-21	UE4.26.1	https://cdn.fnbuilds.services/16.40.rar
 16.50-CL-N/A	03-06-22	UE4.26.1	N/A
+Season 17
+Build	Date	Engine Version	Download links
+17.00-CL-N/A	16-03-21	UE4.26	N/A
+17.10-CL-N/A	30-03-21	UE4.26	N/A
+17.20-CL-N/A	13-04-21	UE4.26	N/A
+17.30-CL-N/A	27-04-21	UE4.26	https://cdn.fnbuilds.services/17.30.zip
+17.40-CL-N/A	11-05-21	UE4.26.1	N/A
+17.50-CL-N/A	03-06-22	UE4.26.1	https://cdn.fnbuilds.services/17.50.zip
+Season 18
+Build	Date	Engine Version	Download links
+18.00-CL-N/A	16-03-21	UE4.26	N/A
+18.10-CL-N/A	30-03-21	UE4.26	N/A
+18.20-CL-N/A	13-04-21	UE4.26	N/A
+18.21-CL-N/A	27-04-21	UE4.26	N/A
+18.30-CL-N/A	11-05-21	UE4.26.1	N/A
+18.40-CL-N/A	03-06-22	UE4.26.1	https://cdn.fnbuilds.services/18.40.zip
 Season 19
 Build	Date	Engine Version	Download links
 19.10-CL-N/A	N/A	N/A	https://cdn.fnbuilds.services/19.10.rar
-
-
-
-season 17
-17.50 by me :D https://dl.fnvault.com/17.50-17388565.zip
-
-
-
-
-
+Season 20
+Build	Date	Engine Version	Download links
+20.40-CL-N/A	N/A	N/A	https://cdn.fnbuilds.services/20.40.zip
 
 
 
